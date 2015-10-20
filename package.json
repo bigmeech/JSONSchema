@@ -1,0 +1,19 @@
+{
+  "name": "JSONSchema",
+  "version": "1.0.0",
+  "description": "Opinionated Schema and validator of JSON strutures",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigmeech/JSONSchema"
+  },
+  "author": "larry Eliemenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigmeech/JSONSchema/issues"
+  },
+  "homepage": "https://github.com/bigmeech/JSONSchema"
+}
