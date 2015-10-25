@@ -15,7 +15,7 @@ var sampleSchema = {
 ```
 
 
-### Now use the schema tio validate the JSON
+### Now use the schema to validate the JSON
 
 ```
 var schema = new JSONSchema();
