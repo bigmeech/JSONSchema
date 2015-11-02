@@ -24,7 +24,7 @@ schema.useSchema("nameSchema")
 var validator = schema.getValidator("nameSchema")
 validator.validate({"name":"hello"},{
     caseSensitive:true,
-    preservceStructure:true
+    preserveStructure:true
 })
 
 ```
